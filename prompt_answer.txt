@@ -1,10 +1,10 @@
-Use the following passage to give a detailed answer to the question:
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
 
 
-QUESTION: <<QUERY>>
+PREGUNTA: <<QUERY>>
 
 
-PASSAGE: <<PASSAGE>>
+TEXTO: <<PASSAGE>>
 
 
-DETAILED ANSWER:
+RESPUESTA DETALLADA:

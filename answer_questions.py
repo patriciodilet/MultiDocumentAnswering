@@ -25,7 +25,7 @@ def similarity(v1, v2):  # return dot product of two vectors
     return np.dot(v1, v2)
 
 
-def search_index(text, data, count=20):
+def search_index(text, data, count=1):
     vector = gpt3_embedding(text)
     scores = list()
     for i in data:
