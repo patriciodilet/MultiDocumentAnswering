@@ -10,8 +10,9 @@ from flask import Flask, request,jsonify
 from flask_cors import CORS
 
 app = Flask(__name__)
-
-cors = CORS(app, resources={r'*': {'origins': 'http://127.0.0.1:5173'}})
+# https://whatsaic1.onrender.com
+cors = CORS(app, resources={r'*': {'origins': 'https://whatsaic1.onrender.com'}})
+# cors = CORS(app, resources={r'*': {'origins': 'http://127.0.0.1:5173'}})
 
 load_dotenv()
 # openai.api_key = open_file('openaiapikey.txt')
