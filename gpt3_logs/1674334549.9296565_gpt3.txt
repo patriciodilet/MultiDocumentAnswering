@@ -1,0 +1,18 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: qu hace el jefe de calidad?
+
+
+TEXTO: registro de esta actividad se est desarrollando correctamente.  5.8.- JEFE DE CALIDAD * Asesorar en la realizacin de este y otros procedimientos o instructivos. * Identificar los principales estndares de calidad en el proyecto para satisfacer las necesidades del cliente. * Es responsable a travs de su personal o de sus designados de verificar que se cumplan las condiciones especificadas en los procedimientos y documentar las inspecciones realizadas. * Desarrollar la ejecucin e
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+El jefe de calidad es responsable de asegurar que el proyecto se desarrolle de acuerdo con los estándares de calidad establecidos. Para cumplir con este objetivo, el jefe de calidad supervisa las actividades del personal y realiza inspecciones para garantizar el cumplimiento de los procedimientos y requisitos especificados.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+Este documento se refiere a la construccin de una actividad con resultados seguros y de acuerdo con los estndares vigentes. El objetivo es asegurar la difusin y el cumplimiento del presente documento, as como llevar un control de los registros y documentos generados como resultado de la ejecucin de esta tarea.
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+El documento se refiere a la construcción de una actividad con resultados seguros y de acuerdo con los estándares vigentes. El objetivo es asegurar la difusión y el cumplimiento del presente documento, así como llevar un control de los registros y documentos generados como resultado de la ejecución de esta tarea. Se especifican los requisitos mínimos que deben cumplirse para considerar una actividad segura y conforme a los estándares, así como los procedimientos a seguir para llevar a cabo la misma.

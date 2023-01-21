@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+El jefe de calidad es responsable de asegurar que el proyecto se desarrolle de acuerdo con los estndares de calidad establecidos. Para cumplir con este objetivo, el jefe de calidad supervisa las actividades del personal y realiza inspecciones para garantizar el cumplimiento de los procedimientos y requisitos especificados.
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+El jefe de calidad es responsable de asegurar que el proyecto se desarrolle de acuerdo con los estándares de calidad establecidos. Para cumplir con este objetivo, el jefe de calidad supervisa las actividades del personal y realiza inspecciones para garantizar el cumplimiento de los procedimientos y requisitos especificados. El jefe de calidad también se encarga de identificar y analizar las causas de los problemas de calidad, así como de proponer y implementar soluciones para mejorar el rendimiento del proyecto.

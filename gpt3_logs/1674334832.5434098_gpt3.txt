@@ -1,0 +1,18 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: por favor genera 10 preguntas con sus respuestas
+
+
+TEXTO: trabajo, a respetarlas, cumplirlas y hacerlas cumplir en todo momento  Actuar en forma efectiva y eficiente conforme al plan de control de riesgos establecido en San Pedro Ingeniera, que puedan afectar a m o a mis compaeros de trabajo
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+1. ¿Qué es el trabajo? 2. ¿Por qué es importante respetar las normas y cumplirlas? 3. ¿Qué consecuencias puede tener no cumplir las normas? 4. ¿Qué es un plan de control de riesgos? 5. ¿Por qué es importante tener un plan de control de riesgos? 6. ¿Cuáles son algunos de los riesgos que pueden afectar el trabajo? 7. ¿Cómo se pueden evitar o minimizar los riesgos en el trabajo? 8. ¿Qué se debe hacer si se presenta un riesgo en el trabajo? 9. ¿Cómo se puede mejorar el plan de control de riesgos? 10. ¿Qué otros consejos puedes dar para mejorar el trabajo y evitar riesgos?

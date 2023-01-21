@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+El documento se refiere a la construccin de una actividad con resultados seguros y conformes a los estndares vigentes. Se especifica que se debe asegurar la difusin y el cumplimiento del documento, as como llevar un control de los registros y documentos generados como resultado de la ejecucin de la tarea. Tambin se indica que se deben verificar que los registros entregados por la Supervisin estn completos, y administrar y archivar el presente procedimiento. Finalmente, se especifica que se debe generar, revisar e implementar el Plan de Calidad de la
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+El documento se refiere a la construcción de una actividad con resultados seguros y conformes a los estándares vigentes. Se especifica que se debe asegurar la difusión y el cumplimiento del documento, así como llevar un control de los registros y documentos generados como resultado de la ejecución de la tarea. También se indica que se deben verificar que los registros entregados por la Supervisión estén completos, y administrar y archivar el presente procedimiento. Finalmente, se especifica que se debe generar, revisar e implementar el Plan de Calidad de la actividad.

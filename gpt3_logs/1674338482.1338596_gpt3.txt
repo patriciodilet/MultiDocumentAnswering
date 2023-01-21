@@ -1,0 +1,19 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: que es el flujograma de trabajo
+
+
+
+TEXTO: trabajo, a respetarlas, cumplirlas y hacerlas cumplir en todo momento  Actuar en forma efectiva y eficiente conforme al plan de control de riesgos establecido en San Pedro Ingeniera, que puedan afectar a m o a mis compaeros de trabajo
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+El flujograma de trabajo es el plan de control de riesgos establecido en San Pedro Ingeniera que se debe seguir para actuar de forma efectiva y eficiente. Este plan incluye todas las acciones necesarias para realizar un trabajo, desde el inicio hasta el final, y también establece qué se debe hacer en caso de que surjan problemas o imprevistos.

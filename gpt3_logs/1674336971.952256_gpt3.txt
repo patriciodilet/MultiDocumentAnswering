@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+Los deberes de los maestros incluyen el trabajo, el respeto, la cumplimiento y el hacer cumplir las reglas en todo momento. Tambin deben actuar efectiva y eficientemente conforme al plan de control de riesgos establecido en su lugar de trabajo, que pueda afectarles a ellos o a sus compaeros de trabajo.
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+Los deberes de los maestros incluyen el trabajo, el respeto, la cumplimiento y el hacer cumplir las reglas en todo momento. Tambin deben actuar efectiva y eficientemente conforme al plan de control de riesgos establecido en su lugar de trabajo, que pueda afectarles a ellos o a sus compaeros de trabajo.

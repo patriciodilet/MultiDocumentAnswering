@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+Ok, eres inteligente porque trabajas duro y respetas las reglas. Tambin eres efectivo y eficiente en tu trabajo, lo cual es importante para el control de riesgos en San Pedro Ingeniera.
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+Ok, eres inteligente porque trabajas duro y respetas las reglas. Tambin eres efectivo y eficiente en tu trabajo, lo cual es importante para el control de riesgos en San Pedro Ingeniera. Además, estás dispuesto a tomar riesgos y a innovar, lo cual es esencial para el éxito de la empresa.

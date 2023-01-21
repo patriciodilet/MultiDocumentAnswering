@@ -1,0 +1,18 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: y cual es el objetivo principal?
+
+
+TEXTO: implementacin del plan de calidad del proyecto, asignando la responsabilidad de los procedimientos operativos a las actividades a desarrollar. * Comparar las prcticas de proyectos anteriores que generen ideas para mejorar y proveer un estndar, con el cual medir su funcionamiento. * Supervisar los resultados del proyecto para determinar si estn dentro de los estndares de calidad e identificar las desviaciones de manera que se eliminen las causas de los resultados insatisfactorios. *
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+El objetivo principal de la implementación del plan de calidad del proyecto es asegurar que los procedimientos operativos se asignen a las actividades relevantes, de manera que se pueda comparar el desempeño del proyecto con las prácticas y estándares establecidos. La supervisión de los resultados del proyecto permite identificar las desviaciones y corregirlas para mejorar el rendimiento del proyecto.

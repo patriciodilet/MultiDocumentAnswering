@@ -1,0 +1,18 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: cmo se realiza la recepcion de materiales?
+
+
+TEXTO: desensamblar las barreras para que puedan ser reutilizadas y as no generar residuos, esto usando llaves manuales para retirar los pernos que ensamblan la barrera. Las fundaciones de las barreras duras sern demolidas y los escombros sern depositados en un lugar habilitado por el cliente, bajo las directrices del procedimiento de Obras Civiles, en su ltima revisin.  Medidas de Control. En trabajos de corte de camino habr interaccin entre equipos, vehculos y personas, tanto por trabajos a
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+La recepción de materiales se realiza desensamblando las barreras para que puedan ser reutilizadas y así no generar residuos. Se usan llaves manuales para retirar los pernos que ensamblan la barrera. Las fundaciones de las barreras duras serán demolidas y los escombros serán depositados en un lugar habilitado por el cliente, bajo las directrices del procedimiento de Obras Civiles, en su última revisión. Medidas de Control. En trabajos de corte de camino habrá interacción entre equipos, vehículos y personas, tanto por trabajos a

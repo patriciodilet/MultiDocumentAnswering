@@ -1,0 +1,19 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: que es el flujograma de accidentes?
+
+
+
+TEXTO: 1.3 Exposicin a polvo en suspensin por trnsito vehicular.  1.4 Atropellos, choque, colisin   1.5 Cada a distinto y/o mismo nivel al transitar por terreno en desnivel e irregular  1.6 Cadas, golpes, derivadas de la mala ejecucin de los trabajos.   1.7 Golpes, cortes, cadas dependiendo de la actividad   por un anlisis deficiente de riesgo y peligro.            1.1.1. Transitar con Precaucin, atento a las condiciones del terreno y por vas autorizadas  1.  1.1.  1.2.  1.2.1. Solicitar
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+El flujograma de accidentes es una herramienta que se utiliza para analizar y evaluar los accidentes que ocurren en un lugar de trabajo. Se basa en el análisis de las causas y consecuencias de los accidentes, así como de las medidas preventivas que se pueden adoptar para evitarlos.

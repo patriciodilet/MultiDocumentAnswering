@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+Los maestros sern responsables de cumplir con los estndares y normativas establecidos por el cliente. Deben informar de todos los incidentes que ocurran en la obra, as como de las acciones y condiciones subestndar. Slo deben realizar las actividades para las que hayan sido contratados, y ser el responsable de tomar las medidas necesarias para identificar peligros y evaluar los riesgos de seguridad y medio ambiente que le sean indicados. Los maestros tambin deben realizar su PSGCC (Plan de Seguridad y Gestin de la Calidad del Cliente) correspondiente a la obra.
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+Los maestros sern responsables de cumplir con los estndares y normativas establecidos por el cliente. Deben informar de todos los incidentes que ocurran en la obra, as como de las acciones y condiciones subestndar. Slo deben realizar las actividades para las que hayan sido contratados, y ser el responsable de tomar las medidas necesarias para identificar peligros y evaluar los riesgos de seguridad y medio ambiente que le sean indicados. Los maestros tambin deben realizar su PSGCC (Plan de Seguridad y Gestin de la Calidad del Cliente) correspondiente a la obra.

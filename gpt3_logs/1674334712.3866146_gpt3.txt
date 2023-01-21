@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+La recepcin de materiales se realiza desensamblando las barreras para que puedan ser reutilizadas y as no generar residuos. Se usan llaves manuales para retirar los pernos que ensamblan la barrera. Las fundaciones de las barreras duras sern demolidas y los escombros sern depositados en un lugar habilitado por el cliente, bajo las directrices del procedimiento de Obras Civiles, en su ltima revisin. Medidas de Control. En trabajos de corte de camino habr interaccin entre equipos, vehculos y personas, tanto por trabajos a
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+La recepcin de materiales se realiza desensamblando las barreras para que puedan ser reutilizadas y as no generar residuos. Se usan llaves manuales para retirar los pernos que ensamblan la barrera. Las fundaciones de las barreras duras sern demolidas y los escombros sern depositados en un lugar habilitado por el cliente, bajo las directrices del procedimiento de Obras Civiles, en su ltima revisin. Medidas de Control. En trabajos de corte de camino habr interaccin entre equipos, vehculos y personas, tanto por trabajos a

@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+El flujograma de trabajo es el plan de control de riesgos establecido en San Pedro Ingeniera que se debe seguir para actuar de forma efectiva y eficiente. Este plan incluye todas las acciones necesarias para realizar un trabajo, desde el inicio hasta el final, y tambin establece qu se debe hacer en caso de que surjan problemas o imprevistos.
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+El flujograma de trabajo es un plan de control de riesgos establecido en San Pedro Ingeniera que se debe seguir para actuar de forma efectiva y eficiente. Este plan incluye todas las acciones necesarias para realizar un trabajo, desde el inicio hasta el final, y tambin establece qu se debe hacer en caso de que surjan problemas o imprevistos.

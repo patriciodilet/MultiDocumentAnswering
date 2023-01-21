@@ -1,0 +1,18 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: y cual seran las responsabilidades de maestros?
+
+
+TEXTO: estndares y normativas del cliente. * Informar todo incidente que ocurra en la obra. * Informar acciones y condiciones sub estndar. * Debe realizar slo las actividades para lo cual se le contrat * Ser el responsable de tomar las medidas que estn bajo su alcance en cuanto a la identificacin de peligros y evaluacin de riesgos de seguridad y medio ambiental que se le indique y que l pueda evaluar en la ejecucin de la ART. * Los maestros deben realizar su PSGCC correspondiente a la
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+Los maestros serán responsables de cumplir con los estándares y normativas establecidos por el cliente. Deben informar de todos los incidentes que ocurran en la obra, así como de las acciones y condiciones subestándar. Sólo deben realizar las actividades para las que hayan sido contratados, y ser el responsable de tomar las medidas necesarias para identificar peligros y evaluar los riesgos de seguridad y medio ambiente que le sean indicados. Los maestros también deben realizar su PSGCC (Plan de Seguridad y Gestión de la Calidad del Cliente) correspondiente a la obra.

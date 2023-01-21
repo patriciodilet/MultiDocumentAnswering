@@ -1,0 +1,18 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: cuales son los deberes de los maestros?
+
+
+TEXTO: trabajo, a respetarlas, cumplirlas y hacerlas cumplir en todo momento  Actuar en forma efectiva y eficiente conforme al plan de control de riesgos establecido en San Pedro Ingeniera, que puedan afectar a m o a mis compaeros de trabajo
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+Los deberes de los maestros incluyen el trabajo, el respeto, la cumplimiento y el hacer cumplir las reglas en todo momento. También deben actuar efectiva y eficientemente conforme al plan de control de riesgos establecido en su lugar de trabajo, que pueda afectarles a ellos o a sus compañeros de trabajo.

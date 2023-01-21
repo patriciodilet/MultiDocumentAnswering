@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+El flujograma de accidentes es una herramienta que se utiliza para analizar y evaluar los accidentes que ocurren en un lugar de trabajo. Se basa en el anlisis de las causas y consecuencias de los accidentes, as como de las medidas preventivas que se pueden adoptar para evitarlos.
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+El flujograma de accidentes es una herramienta que se utiliza para analizar y evaluar los accidentes que ocurren en un lugar de trabajo. Se basa en el análisis de las causas y consecuencias de los accidentes, así como de las medidas preventivas que se pueden adoptar para evitarlos. El flujograma de accidentes se divide en cuatro etapas: identificación de la situación, análisis de la situación, evaluación de la situación y toma de medidas preventivas. En la primera etapa, se identifican los datos relevantes del accidente, como la fecha, lugar, hora, número de víctimas, etc. En la segunda etapa, se analizan las causas del accidente y se establecen las medidas preventivas que se deben adoptar. En la tercera etapa, se evalúa el efecto de las medidas preventivas adoptadas y se toman las medidas correctivas necesarias. Finalmente, en la cuarta etapa, se analizan los resultados obtenidos y se establecen las acciones correctivas a tomar en el futuro.

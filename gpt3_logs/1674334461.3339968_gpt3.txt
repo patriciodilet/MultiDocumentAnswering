@@ -1,0 +1,18 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: y para quin aplicara este procedimiento?
+
+
+TEXTO: implementacin del plan de calidad del proyecto, asignando la responsabilidad de los procedimientos operativos a las actividades a desarrollar. * Comparar las prcticas de proyectos anteriores que generen ideas para mejorar y proveer un estndar, con el cual medir su funcionamiento. * Supervisar los resultados del proyecto para determinar si estn dentro de los estndares de calidad e identificar las desviaciones de manera que se eliminen las causas de los resultados insatisfactorios. *
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+Este procedimiento se aplicará a todas las actividades del proyecto, para garantizar que se cumplan los estándares de calidad establecidos. Se compararán las prácticas de proyectos anteriores para identificar áreas de mejora, y se supervisarán los resultados del proyecto para asegurarse de que se estén cumpliendo los estándares de calidad. Si se encuentran desviaciones, se identificarán las causas y se tomarán medidas para corregirlas.

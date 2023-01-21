@@ -1,0 +1,18 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: ok, que inteligente eres
+
+
+TEXTO: trabajo, a respetarlas, cumplirlas y hacerlas cumplir en todo momento  Actuar en forma efectiva y eficiente conforme al plan de control de riesgos establecido en San Pedro Ingeniera, que puedan afectar a m o a mis compaeros de trabajo
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+Ok, eres inteligente porque trabajas duro y respetas las reglas. También eres efectivo y eficiente en tu trabajo, lo cual es importante para el control de riesgos en San Pedro Ingeniería.

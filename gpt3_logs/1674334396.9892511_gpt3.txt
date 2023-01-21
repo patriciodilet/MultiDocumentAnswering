@@ -1,0 +1,13 @@
+PROMPT:
+
+Escribe un resumen detallado de los siguientes:
+
+El objetivo principal de la implementacin del plan de calidad del proyecto es asegurar que los procedimientos operativos se asignen a las actividades relevantes, de manera que se pueda comparar el desempeo del proyecto con las prcticas y estndares establecidos. La supervisin de los resultados del proyecto permite identificar las desviaciones y corregirlas para mejorar el rendimiento del proyecto.
+
+RESUMEN DETALLADO:
+
+==========
+
+RESPONSE:
+
+El objetivo principal de la implementación del plan de calidad del proyecto es asegurar que los procedimientos operativos se asignen a las actividades relevantes, de manera que se pueda comparar el desempeño del proyecto con las prácticas y estándares establecidos. La supervisión de los resultados del proyecto permite identificar las desviaciones y corregirlas para mejorar el rendimiento del proyecto.

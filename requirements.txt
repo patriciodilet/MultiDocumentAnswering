@@ -1,0 +1,8 @@
+Flask 
+torch 
+torchvision 
+CORS 
+flask-cors 
+openai
+python-dotenv
+Gunicorn

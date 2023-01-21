@@ -1,0 +1,18 @@
+PROMPT:
+
+Use el siguiente texto para dar una respuesta detallada a la pregunta:
+
+
+PREGUNTA: de qu se trata el documento
+
+
+TEXTO: construccin para el cumplimiento de la actividad con resultados seguros y segn los estndares vigentes. * Asegurar la difusin y cumplimiento del presente documento. * Llevar el control de los registros (Protocolos) y de los documentos que se generen como resultado de la ejecucin de esta tarea.  * Verificar que los registros entregados por la Supervisin estn completos, administrar y llevar en archivo el presente procedimiento, generar, revisar, e implementar el Plan de Calidad de la
+
+
+RESPUESTA DETALLADA:
+
+==========
+
+RESPONSE:
+
+El documento se refiere a la construcción de una actividad con resultados seguros y conformes a los estándares vigentes. Se especifica que se debe asegurar la difusión y el cumplimiento del documento, así como llevar un control de los registros y documentos generados como resultado de la ejecución de la tarea. También se indica que se deben verificar que los registros entregados por la Supervisión estén completos, y administrar y archivar el presente procedimiento. Finalmente, se especifica que se debe generar, revisar e implementar el Plan de Calidad de la
