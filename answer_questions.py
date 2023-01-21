@@ -90,4 +90,5 @@ if __name__ == '__main__':
             prompt = open_file('prompt_summary.txt').replace('<<SUMMARY>>', chunk)
             summary = gpt3_completion(prompt)
             final.append(summary)
+            
         print('\n\n=========\n\n', '\n\n'.join(final))
